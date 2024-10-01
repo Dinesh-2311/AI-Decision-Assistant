@@ -1,16 +1,6 @@
 # Commuting Options Suggestion System
 
-This project simulates AI-based decision-making for commuting using propositional logic. It evaluates various commuting options (Work from Home, Drive to Work, or Public Transport) based on current conditions such as weather, traffic, appointments, and strikes.
-
-## Table of Contents
-
-1. [Overview](#overview)
-2. [Requirements](#requirements)
-3. [How to Run the Python Code](#how-to-run-the-python-code)
-4. [Code Explanation](#code-explanation)
-5. [Usage](#usage)
-6. [Additional Features](#additional-features)
-7. [Future Improvements](#future-improvements)
+This project implements a simple commuting options suggestion system using propositional logic. The system evaluates different commuting methods based on various conditions, such as weather, traffic, and appointments.
 
 ## Overview
 
@@ -25,3 +15,10 @@ To run this project, you need to have Python and the `sympy` library installed. 
 
 ```bash
 pip install sympy
+
+## How to Run the Python Code
+
+Clone or Download the Repository: Get the project files to your local machine.
+Open a Terminal: Navigate to the directory where the project is located.
+Run the Script: Execute the Python script using the following command: python commute_decision.py
+
