@@ -11,8 +11,8 @@ This project simulates AI-based decision-making for commuting using propositiona
 ## How to Run the Python Code
 
 1. Clone the Repository: If you have a Git client, clone the repository using:
-   ```bash
-   git clone <repository-url>
+   bash
+   https://github.com/Dinesh-2311/AI-Decision-Assistant.git
 
 
 
