@@ -1,4 +1,4 @@
-# Commuting Options Suggestion System
+# AI-Decision-Assistant
 
 This project implements a simple commuting options suggestion system using propositional logic. The system evaluates different commuting methods based on various conditions, such as weather, traffic, and appointments.
 
